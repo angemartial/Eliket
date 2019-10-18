@@ -1,0 +1,89 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Contactez nous{% endblock %}
+
+{% block content %}
+
+
+    <!--================Hero Banner Area Start =================-->
+    <section class="hero-banner-other hero-banner-sm">
+
+        <div class="container text-left">
+            <h2>Contactez nous </h2>
+            <nav aria-label="breadcrumb" class="banner-breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="{{ path ('home') }}">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Contactez nous</li>
+                </ol>
+            </nav>
+        </div>
+    </section>
+    <!--================Hero Banner Area End =================-->
+
+
+    <!-- ================ contact section start ================= -->
+    <section class="section-margin--large">
+        <div class="container">
+
+            {% for message in app.flashes('success') %}
+                <div class="alert alert-success">{{ message }}</div>
+            {% endfor %}
+
+            <div class="row">
+
+                <div class="col-lg-8">
+                    <div class="col">
+                        <h2 class="contact-title">Contactez nous par email ou mobile !</h2>
+                        <p>Vous pouvez nous contacter de la manière qui vous convient. Nous sommes disponibles 24 heures sur 24, 7 jours sur 7,
+                            par fax ou par courrier électronique. Vous pouvez également utiliser un formulaire de contact rapide
+                            ci-dessous ou visiter personnellement notre bureau. Nous serions heureux de répondre à vos questions.</p>
+                    </div>
+                    {#<form class="form-contact contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">#}
+                    {{ include ('contact/_form.html.twig') }}
+                </div>
+
+                <div class="col-lg-4">
+                    {{ include ('contact/_info_contact.html.twig') }}
+                </div>
+                <div class="col-md-4 col-lg-3 mb-4 mb-md-0">
+
+                </div>
+                <div class="col-md-8 col-lg-9">
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section-margin--large">
+        <div class="d-none d-sm-block ">
+            <div id="map" style="height: 480px;"></div>
+            <script>
+                function initMap() {
+                    var uluru = {lat: -25.363, lng: 131.044};
+                    var grayStyles = [
+                        {
+                            featureType: "all",
+                            stylers: [
+                                { saturation: -90 },
+                                { lightness: 50 }
+                            ]
+                        },
+                        {elementType: 'labels.text.fill', stylers: [{color: '#A3A3A3'}]}
+                    ];
+                    var map = new google.maps.Map(document.getElementById('map'), {
+                        center: {lat: -31.197, lng: 150.744},
+                        zoom: 9,
+                        styles: grayStyles,
+                        scrollwheel:  false
+                    });
+                }
+
+            </script>
+            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpfS1oRGreGSBU5HHjMmQ3o5NLw7VdJ6I&callback=initMap"></script>
+
+        </div>
+    </section>
+
+    <!-- ================ contact section end ================= -->
+
+{% endblock %}

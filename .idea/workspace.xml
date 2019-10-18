@@ -1,0 +1,1731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71b7e0dc-42fe-4892-88d0-6e89ff51d382" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/img/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/Fevicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/about-us/about-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/about-us/about-digital.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/about-us/about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/about-us/halo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/about-us/mail_marketing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/about-us/seo-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/about-us/seo_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/about-us/web_design.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/banner/agency.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/banner/banner-content-img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/banner/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/banner/bg3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/banner/bg4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/banner/hero-banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/banner/hero-vector-overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/banner/index.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/add.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/author.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/blog1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/blog2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/blog3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/c1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/c2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/c3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/cat-post/cat-post-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/cat-post/cat-post-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/cat-post/cat-post-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/causes/causes-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/causes/causes-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/causes/causes-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/feature-img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/latest-post/l-post-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/latest-post/l-post-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/latest-post/l-post-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/latest-post/l-post-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/main-blog/m-blog-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/main-blog/m-blog-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/main-blog/m-blog-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/main-blog/m-blog-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/main-blog/m-blog-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/next.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/popular-post/post1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/popular-post/post2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/popular-post/post3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/popular-post/post4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/post-img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/post-img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog/prev.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/clients-logo/c-logo-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/clients-logo/c-logo-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/clients-logo/c-logo-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/clients-logo/c-logo-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/clients-logo/c-logo-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/font/calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/font/certificate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/font/computer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/font/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/font/financial.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/font/internet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/font/monitor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/font/rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/font/sale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/g1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/g2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/g3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/g4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/g5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/g6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/countdown-day.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/countdown-hour.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/countdown-minute.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/feature-icon-active-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/feature-icon-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/gallery-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/mail_marketing-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/management.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/section-style.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/seo_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/social_media.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/speaker-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/speaker-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/speaker-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/speaker-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/sponsor-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/sponsor-sm-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/sponsor-sm-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/sponsor-sm-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/sponsor1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/sponsor2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/sponsor3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home/web_design.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/instagram/i1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/instagram/i2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/instagram/i3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/instagram/i4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/instagram/i5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/instagram/i6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/instagram/i7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/instagram/i8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/instagram/widget-i1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/instagram/widget-i2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/instagram/widget-i3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/instagram/widget-i4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/instagram/widget-i5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/instagram/widget-i6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/testimonial/testimonial1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/testimonial/testimonial2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/testimonial/testimonial3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/New folder/font/Flaticon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/New folder/font/Flaticon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/New folder/font/Flaticon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/New folder/font/Flaticon.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/New folder/license/license.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/font/Flaticon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/font/Flaticon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/font/Flaticon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/font/Flaticon.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/license/license.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/fontawesome/webfonts/fa-brands-400.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/fontawesome/webfonts/fa-brands-400.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/fontawesome/webfonts/fa-brands-400.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/fontawesome/webfonts/fa-brands-400.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/fontawesome/webfonts/fa-regular-400.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/fontawesome/webfonts/fa-regular-400.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/fontawesome/webfonts/fa-regular-400.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/fontawesome/webfonts/fa-regular-400.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/fontawesome/webfonts/fa-solid-900.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/fontawesome/webfonts/fa-solid-900.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/fontawesome/webfonts/fa-solid-900.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/fontawesome/webfonts/fa-solid-900.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/linericon/fonts/Linearicons-Free.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/linericon/fonts/Linearicons-Free.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/linericon/fonts/Linearicons-Free.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/linericon/fonts/Linearicons-Free.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/fonts/themify.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/fonts/themify.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/fonts/themify.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/ANGEM.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/css/normalize.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/js/jquery-1.11.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/js/jquery.nav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shAutoloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushAS3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushAppleScript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushBash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushCSharp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushColdFusion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushCpp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushCss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushDelphi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushDiff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushErlang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushGroovy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushJScript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushJava.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushJavaFX.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushPerl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushPhp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushPlain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushPowerShell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushPython.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushRuby.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushSass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushScala.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushSql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushVb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shBrushXml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shCore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/scripts/shLegacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shCore.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shCoreDefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shCoreDjango.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shCoreEclipse.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shCoreEmacs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shCoreFadeToGrey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shCoreMDUltra.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shCoreMidnight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shCoreRDark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shThemeDefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shThemeDjango.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shThemeEclipse.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shThemeEmacs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shThemeFadeToGrey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shThemeMDUltra.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shThemeMidnight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Ummet Event -doc/syntax-highlighter/styles/shThemeRDark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/magnific-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/style.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/countdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery.ajaxchimp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery.magnific-popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/mail-script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/compass_librairy.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/modules/_analyse.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/modules/_banner.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/modules/_blog.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/modules/_btn.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/modules/_contact.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/modules/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/modules/_gallery.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/modules/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/modules/_home.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/modules/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/modules/_reset.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/modules/_responsive.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/modules/_section-intro.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/modules/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/Magnific-Popup/jquery.magnific-popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/Magnific-Popup/magnific-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/bootstrap/bootstrap.bundle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/bootstrap/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/counter-up/jquery.counterup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/counter-up/jquery.waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/New folder/font/Flaticon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/New folder/font/_flaticon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/New folder/font/flaticon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/New folder/font/flaticon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/font/Flaticon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/font/_flaticon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/font/flaticon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/flat-icon/font/flaticon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/fontawesome/bootstrap.bundle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/fontawesome/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/fontawesome/css/all.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/jquery.ajaxchimp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/jquery.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/jquery/jquery-3.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/linericon/fonts/Linearicons-Free.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/linericon/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/mail-script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/nice-select/jquery.nice-select.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/nice-select/nice-select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/nouislider/nouislider.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/nouislider/nouislider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/owl-carousel/owl.carousel.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/owl-carousel/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/owl-carousel/owl.theme.default.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/skrollr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/Italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/agenda.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/alarm-clock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/alert.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/align-center.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/align-justify.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/align-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/align-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/anchor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/android.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/angle-double-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/angle-double-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/angle-double-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/angle-double-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/angle-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/angle-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/angle-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/angle-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/announcement.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/apple.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/archive.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/arrow-circle-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/arrow-circle-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/arrow-circle-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/arrow-circle-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/arrow-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/arrow-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/arrow-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/arrow-top-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/arrow-top-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/arrow-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/arrows-corner.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/arrows-horizontal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/arrows-vertical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/back-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/back-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/bag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/bar-chart-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/bar-chart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/basketball.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/bell.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/blackboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/bolt-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/bolt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/book.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/bookmark-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/bookmark.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/briefcase.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/brush-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/brush.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/calendar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/camera.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/car.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/check-box.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/clip.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/clipboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/close.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/cloud-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/cloud-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/cloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/comment-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/comment.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/comments-smiley.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/comments.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/control-backward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/control-eject.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/control-forward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/control-pause.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/control-play.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/control-record.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/control-shuffle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/control-skip-backward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/control-skip-forward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/control-stop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/credit-card.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/crown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/css3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/cup.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/cut.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/dashboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/desktop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/direction-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/direction.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/download.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/dribbble.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/dropbox-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/dropbox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/drupal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/email.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/envelope.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/eraser.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/exchange-vertical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/export.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/eye.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/face-sad.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/face-smile.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/facebook.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/file.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/files.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/filter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/flag-alt-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/flag-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/flag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/flickr-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/flickr.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/folder.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/fullscreen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/gallery.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/game.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/gift.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/github.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/google.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/hand-drag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/hand-open.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/hand-point-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/hand-point-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/hand-point-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/hand-point-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/hand-stop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/harddrive.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/harddrives.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/headphone-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/headphone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/heart-broken.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/heart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/help-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/help.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/home.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/html5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/hummer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/id-badge.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/image.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/import.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/infinite.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/info-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/info.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/ink-pen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/instagram.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/joomla.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/jsfiddle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/key.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layers-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layers.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-accordion-list.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-accordion-merged.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-accordion-separated.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-column2-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-column2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-column3-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-column3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-column4-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-column4.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-cta-btn-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-cta-btn-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-cta-center.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-cta-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-cta-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-grid2-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-grid2-thumb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-grid2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-grid3-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-grid3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-grid4-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-grid4.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-line-solid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-list-large-image.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-list-post.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-list-thumb-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-list-thumb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-media-center-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-media-center.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-media-left-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-media-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-media-overlay-alt-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-media-overlay-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-media-overlay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-media-right-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-media-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-menu-full.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-menu-separated.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-menu-v.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-menu.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-placeholder.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-sidebar-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-sidebar-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-sidebar-none.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-sidebar-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-slider-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-slider.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-tab-min.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-tab-v.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-tab-window.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-tab.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-width-default-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-width-default.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout-width-full.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/layout.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/light-bulb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/line-dashed.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/line-dotted.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/line-double.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/link.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/linkedin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/linux.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/list-ol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/list.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/location-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/location-pin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/lock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/loop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/magnet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/map-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/map.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/marker-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/marker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/medall-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/medall.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/menu-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/menu.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/microphone-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/microphone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/microsoft-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/microsoft.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/minus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/mobile.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/money.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/more-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/more.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/mouse-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/mouse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/music-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/music.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/na.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/new-window.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/notepad.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/package.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/paint-bucket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/paint-roller.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/palette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/panel.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/paragraph.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/pencil-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/pencil-alt2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/pencil.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/pie-chart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/pin-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/pin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/pin2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/pinterest-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/pinterest.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/plug.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/plus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/power-off.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/printer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/pulse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/quote-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/quote-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/receipt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/reddit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/reload.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/rocket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/rss-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/rss.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/ruler-alt-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/ruler-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/ruler-pencil.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/ruler.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/save-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/save.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/search.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/server.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/settings.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/share-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/share.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/sharethis-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/sharethis.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/shield.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/shift-left-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/shift-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/shift-right-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/shift-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/shine.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/shopping-cart-full.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/shopping-cart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/shortcode.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/signal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/skype.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/slice.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/smallcap.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/soundcloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/split-h.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/split-v-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/split-v.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/spray.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/stack-overflow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/stamp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/star.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/stats-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/stats-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/support.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/tablet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/tag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/target.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/text.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/themify-favicon-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/themify-favicon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/themify-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/thought.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/thumb-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/thumb-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/ticket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/time.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/timer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/trash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/trello.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/truck.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/tumblr-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/tumblr.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/twitter-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/twitter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/underline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/unlink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/unlock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/upload.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/uppercase.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/user.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/vector.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/video-camera.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/video-clapper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/view-grid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/view-list-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/view-list.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/vimeo-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/vimeo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/volume.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/wallet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/wand.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/wheelchair.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/widget-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/widget.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/widgetized.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/window.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/wordpress.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/world.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/write.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/yahoo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/youtube.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/zip.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/zoom-in.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/SVG/zoom-out.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/Themify IconFonts 5-23-2014.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/demo-files/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/fonts/themify.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/ie7/ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/ie7/ie7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendors/themify-icons/themify-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Controller/ServicesController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Notification/ContactNotification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/contact/_analyse-form.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/contact/_analyse_btn.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/contact/_btn-contact.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/contact/_form.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/contact/_info_contact.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/emails/contactFromProspects.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/services/email_marketing.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/services/seo-payant.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/services/seo.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/services/social_media.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/services/web_design.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.env" afterPath="$PROJECT_DIR$/.env" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html.twig" afterPath="$PROJECT_DIR$/templates/base.html.twig" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/home/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_banner.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/scss/modules/_banner.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2194">
+              <caret line="110" column="19" lean-forward="false" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_analyse.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/scss/modules/_analyse.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_analyse_btn.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/contact/_analyse_btn.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_analyse-form.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/contact/_analyse-form.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+              <folding>
+                <element signature="e#465#472#1#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analyse.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/analyse/analyse.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="85" column="18" lean-forward="false" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
+              <folding>
+                <element signature="e#4947#4954#1#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/scss/modules/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_home.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/scss/modules/_home.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-377">
+              <caret line="136" column="1" lean-forward="false" selection-start-line="136" selection-start-column="1" selection-end-line="136" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_blog.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/scss/modules/_blog.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10488">
+              <caret line="568" column="13" lean-forward="false" selection-start-line="568" selection-start-column="13" selection-end-line="568" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_section-intro.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/scss/modules/_section-intro.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>feature-icon</find>
+      <find>fea</find>
+      <find>card-fe</find>
+      <find>form-control</find>
+      <find>button-header</find>
+      <find>body</find>
+      <find>h1</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/scss/compass_librairy.scss" />
+        <option value="$PROJECT_DIR$/public/Ummet Event -doc/css/main.css" />
+        <option value="$PROJECT_DIR$/public/scss/modules/_blog.scss" />
+        <option value="$PROJECT_DIR$/public/scss/modules/_footer.scss" />
+        <option value="$PROJECT_DIR$/public/js/contact.js" />
+        <option value="$PROJECT_DIR$/src/Form/ProspectType.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/templates/emails/contactFromProspects.html.twig" />
+        <option value="$PROJECT_DIR$/public/vendors/bootstrap/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/src/Notification/ContactNotification.php" />
+        <option value="$PROJECT_DIR$/public/scss/modules/_hero-banner-other-page.scss" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/src/Controller/AboutController.php" />
+        <option value="$PROJECT_DIR$/public/scss/modules/_btn-menu.scss" />
+        <option value="$PROJECT_DIR$/public/scss/modules/_btn.scss" />
+        <option value="$PROJECT_DIR$/public/scss/modules/_reset.scss" />
+        <option value="$PROJECT_DIR$/src/Controller/ServicesController.php" />
+        <option value="$PROJECT_DIR$/public/scss/modules/_header.scss" />
+        <option value="$PROJECT_DIR$/templates/contact/_info_contact.html.twig" />
+        <option value="$PROJECT_DIR$/public/scss/modules/_variables.scss" />
+        <option value="$PROJECT_DIR$/public/scss/modules/_contact.scss" />
+        <option value="$PROJECT_DIR$/src/Entity/Prospects.php" />
+        <option value="$PROJECT_DIR$/templates/home/_btn_analyse_site.html.twig" />
+        <option value="$PROJECT_DIR$/src/Controller/ContactController.php" />
+        <option value="$PROJECT_DIR$/templates/contact/contact.html.twig" />
+        <option value="$PROJECT_DIR$/src/Controller/AnalyseController.php" />
+        <option value="$PROJECT_DIR$/src/Controller/HomeController.php" />
+        <option value="$PROJECT_DIR$/templates/contact/_form.html.twig" />
+        <option value="$PROJECT_DIR$/public/js/analyse_pop.js" />
+        <option value="$PROJECT_DIR$/templates/home/_btn-contact.html.twig" />
+        <option value="$PROJECT_DIR$/templates/contact/_analayse.html.twig" />
+        <option value="$PROJECT_DIR$/templates/base.html.twig" />
+        <option value="$PROJECT_DIR$/templates/contact/_analyse.html.twig" />
+        <option value="$PROJECT_DIR$/public/Analyse/scss/_style.scss" />
+        <option value="$PROJECT_DIR$/public/scss/style.scss" />
+        <option value="$PROJECT_DIR$/public/js/main.js" />
+        <option value="$PROJECT_DIR$/templates/analyse/analyse.html.twig" />
+        <option value="$PROJECT_DIR$/templates/contact/_btn-contact.html.twig" />
+        <option value="$PROJECT_DIR$/templates/contact/_analyse-form.html.twig" />
+        <option value="$PROJECT_DIR$/templates/services/web_design.html.twig" />
+        <option value="$PROJECT_DIR$/templates/services/social_media.html.twig" />
+        <option value="$PROJECT_DIR$/templates/services/seo-payant.html.twig" />
+        <option value="$PROJECT_DIR$/templates/services/seo.html.twig" />
+        <option value="$PROJECT_DIR$/templates/services/email_marketing.html.twig" />
+        <option value="$PROJECT_DIR$/templates/about/about.html.twig" />
+        <option value="$PROJECT_DIR$/public/scss/modules/_section-intro.scss" />
+        <option value="$PROJECT_DIR$/public/scss/modules/_home.scss" />
+        <option value="$PROJECT_DIR$/public/scss/modules/_banner.scss" />
+        <option value="$PROJECT_DIR$/public/scss/modules/_analyse.scss" />
+        <option value="$PROJECT_DIR$/templates/home/index.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contact" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analyse" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Notification" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Form" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmMedia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AmSuperAgence" />
+    <property name="SearchEverywhereHistoryKey" value="spea&#9;null&#9;null&#10;promote&#9;null&#9;null&#10;section-intr&#9;null&#9;null&#10;body&#9;null&#9;null&#10;section-intro&#9;null&#9;null&#10;card-feat&#9;null&#9;null&#10;round-&#9;null&#9;null&#10;quote&#9;null&#9;null&#10;blockq&#9;null&#9;null&#10;sectio-padding--s&#9;null&#9;null&#10;spons&#9;null&#9;null&#10;card-spe&#9;null&#9;null&#10;divider&#9;null&#9;null&#10;posi&#9;null&#9;null&#10;speaker-&#9;null&#9;null&#10;img-pro&#9;null&#9;null&#10;img-s&#9;null&#9;null&#10;card-feature&#9;null&#9;null&#10;hero-banner&#9;null&#9;null&#10;section-margin--large&#9;null&#9;null&#10;media-body&#9;null&#9;null&#10;form-contact&#9;null&#9;null&#10;form-con&#9;null&#9;null&#10;footer-text&#9;null&#9;null&#10;footer-bo&#9;null&#9;null&#10;footer-tex&#9;null&#9;null&#10;speaker-bg&#9;null&#9;null&#10;section-padding&#9;null&#9;null&#10;section-padd&#9;null&#9;null&#10;.pb-98&#9;null&#9;null&#10;section-intro &#9;null&#9;null&#10;text-center&#9;null&#9;null&#10;section-margin&#9;null&#9;null&#10;hero&#9;null&#9;null" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Analyste programmeur\DigitalAgency\AmMedia\templates\contact" />
+      <recent name="D:\Analyste programmeur\DigitalAgency\AmMedia\public\img\about-us" />
+      <recent name="D:\Analyste programmeur\DigitalAgency\AmMedia\public\img\banner" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Analyste programmeur\DigitalAgency\AmMedia\public\Analyse" />
+      <recent name="D:\Analyste programmeur\DigitalAgency\AmMedia\public\img\about-us" />
+      <recent name="D:\Analyste programmeur\DigitalAgency\AmMedia\public\img\banner" />
+      <recent name="D:\Analyste programmeur\DigitalAgency\AmMedia\public\img\font" />
+      <recent name="D:\Analyste programmeur\DigitalAgency\AmMedia\public\img\home" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71b7e0dc-42fe-4892-88d0-6e89ff51d382" name="Default" comment="" />
+      <created>1570202894942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570202894942</updated>
+      <workItem from="1570202897274" duration="352000" />
+      <workItem from="1570275220288" duration="13432000" />
+      <workItem from="1570344567898" duration="47388000" />
+      <workItem from="1570536881251" duration="14441000" />
+      <workItem from="1570694099481" duration="635000" />
+      <workItem from="1571057182406" duration="686000" />
+      <workItem from="1571126424213" duration="204000" />
+      <workItem from="1571214325714" duration="61550000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="138688000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13993949" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31240544" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268921" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17927383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268921" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268921" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13993949" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31240544" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268921" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17927383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/Ummet Event -doc/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Notification/ContactNotification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/emails/contactFromProspects.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="187" column="7" lean-forward="false" selection-start-line="187" selection-start-column="7" selection-end-line="187" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/modules/_hero-banner-other-page.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2299">
+          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1050">
+          <caret line="1572" column="22" lean-forward="false" selection-start-line="1572" selection-start-column="22" selection-end-line="1572" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/AboutController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/modules/_gallery.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-736">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/modules/_btn-menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/modules/_btn.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="114" column="17" lean-forward="false" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/modules/_reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="79" column="11" lean-forward="false" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/vendors/bootstrap/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-897">
+          <caret line="5" column="5580" lean-forward="false" selection-start-line="5" selection-start-column="5580" selection-end-line="5" selection-end-column="5580" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/modules/_responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="304" column="5" lean-forward="false" selection-start-line="304" selection-start-column="5" selection-end-line="304" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/ServicesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="28" column="49" lean-forward="false" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/modules/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5589">
+          <caret line="307" column="36" lean-forward="false" selection-start-line="307" selection-start-column="36" selection-end-line="307" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Form/ProspectType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="39" column="49" lean-forward="false" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Notification/ContactNotification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="35" column="39" lean-forward="false" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Prospects.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="51" column="45" lean-forward="false" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/_btn_analyse_site.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="64" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/contact/_info_contact.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/ContactController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/modules/_contact.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/analyse_pop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1863">
+          <caret line="81" column="2" lean-forward="false" selection-start-line="81" selection-start-column="2" selection-end-line="81" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/contact/contact.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/AnalyseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="e#34#59#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Analyse/vendor/jquery/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Analyse/scss/layouts/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Analyse/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="51" column="32" lean-forward="false" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="73" column="28" lean-forward="false" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/contact/_btn-contact.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="130" lean-forward="false" selection-start-line="2" selection-start-column="130" selection-end-line="2" selection-end-column="130" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/contact/_analyse_btn.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/services/social_media.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="82" column="91" lean-forward="true" selection-start-line="82" selection-start-column="91" selection-end-line="82" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/services/seo-payant.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/services/web_design.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1909">
+          <caret line="83" column="74" lean-forward="false" selection-start-line="83" selection-start-column="74" selection-end-line="83" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/services/seo.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/services/email_marketing.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="86" column="14" lean-forward="true" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about/about.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/contact/_analyse-form.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding>
+            <element signature="e#465#472#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/modules/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/analyse/analyse.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="85" column="18" lean-forward="false" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
+          <folding>
+            <element signature="e#4947#4954#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/contact/_form.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/modules/_blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10488">
+          <caret line="568" column="13" lean-forward="false" selection-start-line="568" selection-start-column="13" selection-end-line="568" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/modules/_section-intro.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/modules/_home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-377">
+          <caret line="136" column="1" lean-forward="false" selection-start-line="136" selection-start-column="1" selection-end-line="136" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/modules/_banner.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2194">
+          <caret line="110" column="19" lean-forward="false" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/modules/_analyse.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

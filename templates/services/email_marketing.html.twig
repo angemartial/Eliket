@@ -1,0 +1,91 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Contactez nous{% endblock %}
+
+{% block content %}
+
+
+    <!--================section about us =================-->
+    <section class="speaker-bg-1 section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0">
+                    <img src="{{ asset ('img/about-us/mail_marketing.png') }}" alt="" class="img-promote-1 ">
+                </div>
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0 text-left">
+                    <span><h3 class="divider text-black">Email Marketing</h3></span>
+                    <p class="offset-top-75 offset-lg-top-87 text-justify text-black promote-1-text-size">Le marketing par e-mail établit une connexion efficace avec votre public cible et vous procure le meilleur retour sur investissement.
+                        Contactez vos clients actuels et potentiels et tenez-les au courant des dernières offres et actualités de votre entreprise.
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================end about us=================-->
+    <section class="section-margin">
+        <div class="container">
+
+            <div class="d-lg-flex justify-content-between ">
+                <div class="card-feature mb-5 mb-lg-0">
+                    <div class="">
+                        <img src="{{ asset ('img/font/rocket.png') }}" alt="" class="img-svc">
+                    </div>
+                    <h3>Email campagne</h3>
+                    <p>Notre équipe est prête à concevoir, créer et fournir un modèle de courrier électronique
+                        pour la communication avec votre public, ainsi que pour gérer votre campagne de marketing
+                        par courrier électronique afin d’entraîner des changements spectaculaires dans vos ventes et votre rentabilité.</p>
+                </div>
+
+                <div class="card-feature mb-5 mb-lg-0">
+                    <div class="">
+                        <img src="{{ asset ('img/font/internet.png') }}" alt="" class="img-svc">
+                    </div>
+                    <h3>Suivi et rapport</h3>
+                    <p>Recevez des rapports détaillés sur les principaux aspects de votre campagne, tels que les personnes
+                        qui ont cliqué sur votre adresse électronique pour accéder à votre site, les sites sur
+                        lesquels elles ont cliqué et celles qui ont converti.</p>
+                </div>
+                <div class="card-feature mb-5 mb-lg-0">
+                    <div class="">
+                        <img src="{{ asset ('img/font/monitor.png') }}" alt="" class="img-svc">
+                    </div>
+                    <h3>Modèle de courrier électronique</h3>
+                    <p>Nos conceptions et solutions innovantes sont conformes et améliorent la délivrabilité de la messagerie.
+                        Nos designers professionnels donnent vie à votre message et augmentent la participation de votre public cible avec votre marque.</p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="speaker-bg-1 section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0">
+                    <img src="{{ asset ('img/about-us/halo.png') }}" alt="" class="img-promote-1 ">
+                </div>
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0 ">
+                    {#<span><h5 class="divider text-black">Recherche par mot clé / Stratégie</h5></span>#}
+                    {#<div class="divider-lg-2 offset-top-10"></div>#}
+                    <p class="offset-top-75 offset-lg-top-87 text-justify text-black promote-1-text-size">
+                        Le marketing par e-mail établit une connexion efficace avec votre public cible et vous procure le meilleur retour sur investissement.
+                        Contactez vos clients actuels et potentiels et tenez-les au courant des dernières offres et actualités de votre entreprise.
+                        Les spécialistes du marketing s'accordent pour dire que le courrier électronique est une clé pour les entreprises,
+                        en particulier pour le retour sur investissement et le développement de relations fructueuses durables.
+
+                    </p><p class="offset-top-75 offset-lg-top-87 text-justify text-black promote-1-text-size">
+
+                        Une campagne d'e-mail marketing personnalisée, segmentée et ciblée est importante pour la notoriété de la marque et les conversions.
+                        Nos experts utilisent les outils, la stratégie, la mise en œuvre et le suivi des résultats afin d'obtenir le meilleur
+                        engagement possible de la marque.
+                        Nous pouvons nous occuper de votre stratégie complète de marketing par courriel, de la conception de modèles au suivi et à la création de rapports.
+                    </p>
+                    <div class="text-center btn-cons">{{ include ('contact/_btn-contact.html.twig')  }}</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+{% endblock %}

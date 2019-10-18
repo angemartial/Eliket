@@ -1,0 +1,99 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Contactez nous{% endblock %}
+
+{% block content %}
+
+
+    <!--================section about us =================-->
+    <section class="speaker-bg-1 section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0">
+                    <img src="{{ asset ('img/about-us/seo-2.png') }}" alt="" class="img-promote-1 ">
+                </div>
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0 text-left">
+                    <span><h3 class="divider text-black">Gestion des médias sociaux</h3></span>
+                    <p class="offset-top-75 offset-lg-top-87 text-justify text-black promote-1-text-size">
+                        Les entreprises intelligentes savent que les médias sociaux sont un pouvoir sur lequel il faut compter:
+                        les canaux de médias sociaux créent une ligne de communication directe entre votre entreprise et les consommateurs,
+                        et ils offrent à toute personne disposant d'une connexion Internet un accès instantané au dernier buzz concernant
+                        vos produits ou services. Mais les gestionnaires de réseaux sociaux ont un million de balles à jongler en même temps.
+                        Par conséquent, utiliser efficacement cette voie de communication directe peut constituer un exploit majeur.
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================end about us=================-->
+    <section class="section-margin">
+        <div class="container">
+
+            <div class="d-lg-flex justify-content-between ">
+                <div class="card-feature mb-5 mb-lg-0">
+                    <div class="">
+                        <img src="{{ asset ('img/font/rocket.png') }}" alt="" class="img-svc">
+                    </div>
+                    <h3>Gestion de la marque</h3>
+                    <p>
+                        Nous pouvons vous aider à améliorer et à suivre la réputation de votre entreprise et à découvrir comment les gens perçoivent votre marque.
+                    </p>
+                </div>
+
+                <div class="card-feature mb-5 mb-lg-0">
+                    <div class="">
+                        <img src="{{ asset ('img/font/internet.png') }}" alt="" class="img-svc">
+                    </div>
+                    <h3>Gestion du contenu media social</h3>
+                    <p>
+                        Le contenu des médias sociaux peut augmenter votre trafic sur une courte période.
+                        Nos experts peuvent vous aider à déterminer le type de contenu et la plate-forme les mieux adaptés à votre marque.</p>
+                </div>
+                <div class="card-feature mb-5 mb-lg-0">
+                    <div class="">
+                        <img src="{{ asset ('img/font/monitor.png') }}" alt="" class="img-svc">
+                    </div>
+                    <h3>Configuration et conception de profil personnalisé</h3>
+                    <p>
+                        Nous créons et personnalisons des profils de médias sociaux avec
+                        un contenu et une esthétique de qualité qui résonnent avec votre marque et votre public.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="speaker-bg-1 section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0">
+                    <img src="{{ asset ('img/about-us/halo.png') }}" alt="" class="img-promote-1 ">
+                </div>
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0 ">
+                    <span><h5 class="divider text-black">Stratégies des médias sociaux</h5></span>
+                    <div class="divider-lg-2 offset-top-10"></div>
+                    <p class="offset-top-75 offset-lg-top-87 text-justify text-black promote-1-text-size">Nous pouvons transformer
+                        les stratégies de marketing des médias sociaux spécifiquement
+                        pour vos clients et pour la marque de votre entreprise. Vous bénéficierez de programmes sociaux entièrement pris
+                        en charge et gérés, de la planification (et de la création) de contenu, de la sensibilisation des blogueurs et de
+                        la distribution vidéo, entre autres services visant à attirer de nouveaux clients et à augmenter votre rentabilité.
+                    </p>
+                    <span><h5 class="divider text-black">Social média marketing</h5></span>
+                    <div class="divider-lg-2 offset-top-10"></div>
+                    <p class="offset-top-75 offset-lg-top-87 text-justify text-black promote-1-text-size">Nos services de médias sociaux vous permettent
+                        de vous connecter et de partager des informations, ce qui accroît la notoriété de la marque,
+                        du produit ou du service. Les résultats de la publicité sur les médias sociaux se reflètent dans
+                        le nombre de re-tweets, partages, commentaires, likes et vues.
+                        Social Media Marketing encourage le contenu généré par les utilisateurs depuis
+                        les plateformes de médias sociaux les plus populaires telles que Facebook, Google+, Twitter, Pinterest et LinkedIn.
+                    </p>
+                    <div class="text-center btn-cons">{{ include ('contact/_btn-contact.html.twig')  }}</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+{% endblock %}

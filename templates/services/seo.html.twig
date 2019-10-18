@@ -1,0 +1,95 @@
+{% extends 'base.html.twig' %}
+
+{% block title %} Page index{% endblock %}
+{% block stylesheet %}{% endblock %}
+
+{% block content %}
+
+
+    <!--================section about us =================-->
+    <section class="speaker-bg-1 section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0">
+                    <img src="{{ asset ('img/about-us/seo-2.png') }}" alt="" class="img-promote-1 ">
+                </div>
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0 text-left">
+                    <span><h3 class="divider text-black">Optimisation des moteurs de recherche gratuit</h3></span>
+                    <p class="offset-top-75 offset-lg-top-87 text-justify text-black promote-1-text-size">L'optimisation des moteurs de recherche (SEO) est le processus qui affecte la visibilité d'un site Web
+                        ou d'une page Web dans les résultats non payés d'un moteur de recherche Web - souvent appelés
+                        résultats "naturels", "organiques" ou "acquis". En règle générale, plus un site apparaît dans
+                        la liste des résultats de la recherche (plus tôt que celui indiqué sur la page des résultats de la recherche)
+                        et plus souvent, plus il reçoit de visiteurs des utilisateurs du moteur de recherche, et ces visiteurs peuvent
+                        être convertis en clients.
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================end about us=================-->
+    <section class="section-margin">
+        <div class="container">
+
+            <div class="d-lg-flex justify-content-between ">
+                <div class="card-feature mb-5 mb-lg-0">
+                    <div class="">
+                        <img src="{{ asset ('img/font/rocket.png') }}" alt="" class="img-svc">
+                    </div>
+                    <h3>Recherche Ciblée</h3>
+                    <p>Développement et promotion ciblée d'un contenu remarquable
+                        qui répond à vos besoins en réalisant, améliorant et maintenant la visibilité de votre présence sur le Web..</p>
+                </div>
+
+                <div class="card-feature mb-5 mb-lg-0">
+                    <div class="">
+                        <img src="{{ asset ('img/font/internet.png') }}" alt="" class="img-svc">
+                    </div>
+                    <h3>Des pages SEO</h3>
+                    <p>Rendez votre contenu facilement accessible aux moteurs de recherche.
+                        Notre équipe est prête à mettre en place des solutions pour booster votre classement et améliorer vos performances. </p>
+                </div>
+
+
+
+                <div class="card-feature mb-5 mb-lg-0">
+                    <div class="">
+                        <img src="{{ asset ('img/font/monitor.png') }}" alt="" class="img-svc">
+                    </div>
+                    <h3>Optimisation des liens</h3>
+                    <p>En tant que partie essentielle de toute stratégie de référencement efficace,
+                        nous pouvons créer votre profil de lien interne pour ajouter une signification à vos mots-clés de page
+                        répertoriés dans les moteurs de recherche.. </p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="speaker-bg-1 section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0">
+                    <img src="{{ asset ('img/about-us/halo.png') }}" alt="" class="img-promote-1 ">
+                </div>
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0 ">
+                    <span><h5 class="divider text-black">Recherche par mot clé / Stratégie</h5></span>
+                    <div class="divider-lg-2 offset-top-10"></div>
+                    <p class="offset-top-75 offset-lg-top-87 text-justify text-black promote-1-text-size">Les mots-clés cibles sont l’un des éléments les plus importants du référencement.
+                        Laissez notre équipe déterminer la meilleure stratégie pour toutes vos activités de création de
+                        liens afin d'accroître le classement de votre moteur de recherche et votre trafic organique.
+                    </p>
+                    <span><h5 class="divider text-black">Rapports d'activité</h5></span>
+                    <div class="divider-lg-2 offset-top-10"></div>
+                    <p class="offset-top-75 offset-lg-top-87 text-justify text-black promote-1-text-size">Nous fournissons un rapport
+                        détaillé sur l’évaluation des performances de votre site Web en matière de référencement, ainsi que des données
+                        sur votre trafic, les mots-clés les plus utilisés et une explication complète de l’activité de votre moteur de recherche
+                    </p>
+                    <div class="text-center btn-cons">{{ include ('contact/_btn-contact.html.twig', {'button_label': 'Analyer votre site'})  }} </div>
+                </div>
+            </div>
+        </div>
+    </section>
+{% endblock %}
+
+{% block javascript %}{% endblock %}

@@ -1,0 +1,88 @@
+{% extends 'base.html.twig' %}
+
+{% block title %} Page index{% endblock %}
+{% block stylesheet %}{% endblock %}
+
+{% block content %}
+
+
+    <!--================section about us =================-->
+    <section class="speaker-bg-1 section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0">
+                    <img src="{{ asset ('img/about-us/seo-2.png') }}" alt="" class="img-promote-1 ">
+                </div>
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0 text-left">
+                    <span><h3 class="divider text-black">Référencement payant</h3></span>
+                    <p class="offset-top-75 offset-lg-top-87 text-justify text-black promote-1-text-size">Nos stratégies de campagne sont conçues pour répondre
+                        aux besoins de nos clients et à la situation de leurs marchés.
+                        Nous fournissons des services actualisés, qui incluent: annonces de recherche payées,
+                        publicité vidéo, annonces graphiques, remarketing PPC et publicité sociale.
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================end about us=================-->
+    <section class="section-margin">
+        <div class="container">
+
+            <div class="d-lg-flex justify-content-between ">
+                <div class="card-feature mb-5 mb-lg-0">
+                    <div class="">
+                        <img src="{{ asset ('img/font/rocket.png') }}" alt="" class="img-svc">
+                    </div>
+                    <h3>Publicité de recherche</h3>
+                    <p>Gagnez un retour sur investissement positif grâce à notre publicité de recherche PPC.
+                        Dépensez votre argent à bon escient et utilisez la forme de publicité la plus ciblée et la plus rentable.</p>
+                </div>
+
+                <div class="card-feature mb-5 mb-lg-0">
+                    <div class="">
+                        <img src="{{ asset ('img/font/internet.png') }}" alt="" class="img-svc">
+                    </div>
+                    <h3>Remarking</h3>
+                    <p>Transformez vos précieux «clients potentiels» en «clients fidèles». Notre équipe de professionnels
+                        vous aidera à ré-engager les utilisateurs qui ont manifesté leur intérêt en développant une stratégie qui répondra à tous vos besoins. </p>
+                </div>
+
+
+
+                <div class="card-feature mb-5 mb-lg-0">
+                    <div class="">
+                        <img src="{{ asset ('img/font/monitor.png') }}" alt="" class="img-svc">
+                    </div>
+                    <h3>Publicité sociale</h3>
+                    <p>Besoin de faire connaître votre marque, votre produit ou votre service?
+                        Nous développerons une stratégie de publicité sociale visant à répondre aux KPI et à vos cibles. </p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="speaker-bg-1 section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0">
+                    <img src="{{ asset ('img/about-us/halo.png') }}" alt="" class="img-promote-1 ">
+                </div>
+                <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0 ">
+                    <span><h5 class="divider text-black">Resultats</h5></span>
+                    <div class="divider-lg-2 offset-top-10"></div>
+                    <p class="offset-top-75 offset-lg-top-87 text-justify text-black promote-1-text-size">Nous livrons des résultats qui aident nos clients à
+                        atteindre leurs objectifs commerciaux. Nous gérons les comptes de nos clients quotidiennement et surveillons les prix et les budgets
+                        des offres afin de maximiser notre retour sur investissement. <br>
+                        Nos résultats exceptionnels sont dus à notre approche complexe et personnalisée, qui comprend un aperçu détaillé des activités et des aspirations de nos clients en matière de publicité Pay Per Click, ainsi qu’un examen des options présentant une liste priorisée d’activités recommandées.
+                    </p>
+
+                    <div class="text-center btn-cons">{{ include ('contact/_btn-contact.html.twig', {'button_label': 'Analyer votre site'})  }}</div>
+                </div>
+            </div>
+        </div>
+    </section>
+{% endblock %}
+
+{% block javascript %}{% endblock %}
